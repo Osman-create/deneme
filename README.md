@@ -1,0 +1,2 @@
+# deneme
+ yazılım denemesi
